@@ -1,3 +1,3 @@
-# CountingValleys_Python
-Hackerrank/Prepare/Algorithms/Implementation
-Python solution to https://www.hackerrank.com/challenges/counting-valleys/problem
+# CountingValleys
+Python solution to Hackerrank-Counting Valleys problem
+https://www.hackerrank.com/challenges/counting-valleys/problem
